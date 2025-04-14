@@ -1,0 +1,45 @@
+.container {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: rgb(221, 218, 218);
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 10rem 40rem 0 40rem;
+}
+.container {
+  text-align: center;
+}
+
+button {
+  margin: 20px 0;
+  color: white;
+  border: none;
+  background-color: rgb(184, 134, 184);
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+}
+button:hover {
+  background-color: rgb(206, 158, 228);
+  scale: 1.1;
+}
+.card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 30px;
+}
+.card select {
+  border: none;
+  outline: none;
+  font-size: medium;
+  padding: 10px 20px 10px 20px;
+}
+
+input {
+  border: none;
+  outline: none;
+  font-size: medium;
+  padding: 10px 20px 10px 20px;
+}
